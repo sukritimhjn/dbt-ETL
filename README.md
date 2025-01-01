@@ -103,9 +103,3 @@ The Airflow DAG will automatically run the pipeline daily.
 3. Commit changes
 4. Push to the branch
 5. Create a Pull Request
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details
-
-## Contact
-[Your Name] - [Your Email]
